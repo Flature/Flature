@@ -40,6 +40,6 @@
 <br><br><br>
 
 ![Flature's GitHub stats](https://github-readme-stats.vercel.app/api?username=flature&show_icons=true&theme=radical)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj={flature})](https://solved.ac/{flature})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=flature)](https://solved.ac/flature)
 
 
