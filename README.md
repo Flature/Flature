@@ -4,7 +4,7 @@
 ## Around Hub Stduio & ThinkGround
 
 <p>I'm Flature</p>
-<p><a href="https://www.youtube.com/channel/UCO7p2fGIfwVbvk_d6sdfnDw"><strong>Around Hub Studio</strong></a> 와 <a href="https://thinkground.studio"><strong>Around Hub Studio</strong></a> 는 제가 운영하는 포트폴리오 사이트와 유튜브 채널입니다.</p>
+<p><a href="https://www.youtube.com/channel/UCO7p2fGIfwVbvk_d6sdfnDw"><strong>Around Hub Studio</strong></a> 와 <a href="https://thinkground.studio"><strong>ThinkGround</strong></a> 는 제가 운영하는 포트폴리오 사이트와 유튜브 채널입니다.</p>
 <p>대부분의 소스코드는 ThinkGround 와 Around Hub Studio가 소유하고 있습니다.</p>
 
 <br><br><br>
