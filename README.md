@@ -37,9 +37,5 @@
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
 </p>
 
-<br><br><br>
-
-![Flature's GitHub stats](https://github-readme-stats.vercel.app/api?username=flature&show_icons=true&theme=radical)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=flature)](https://solved.ac/flature)
 
 
